@@ -4,4 +4,4 @@ Brute force Attacks instgram
 ```
 git clone https://github.com/0XJacks/BF_insta.git
 python3 instaCreck.py
-```¡
+```
